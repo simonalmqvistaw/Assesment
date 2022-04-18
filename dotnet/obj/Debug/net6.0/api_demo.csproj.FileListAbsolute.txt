@@ -1,0 +1,2 @@
+C:\Users\Simon\VisualStudioCode\Azure2022\theapp\dotnet\bin\Debug\net6.0\api_demo.exe
+C:\Users\Simon\VisualStudioCode\Azure2022\theapp\dotnet\bin\Debug\net6.0\api_demo.dll
